@@ -7,4 +7,7 @@ public class HomaPage {
 
     // more things added
 
+
+    // add more welcome sign
+
 }
